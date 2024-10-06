@@ -1,14 +1,14 @@
 # Índice
 
-[1. Introdução](#1-introducao)  
-[2. Instalação de Múltiplas Versões do Python e Gestão de Ambientes Virtuais](#2-instalacao-de-multiplas-versoes-do-python-e-gestao-de-ambientes-virtuais)  
-[3. Criação e Gestão de Ambientes Virtuais](#3-criacao-e-gestao-de-ambientes-virtuais)  
-[4. Integração com Visual Studio Code](#4-integracao-com-visual-studio-code)  
-[5. Gestão de Pacotes e Bibliotecas de Terceiros](#5-gestao-de-pacotes-e-bibliotecas-de-terceiros)  
-[6. Manutenção e Limpeza de Ambientes Virtuais](#6-manutencao-e-limpeza-de-ambientes-virtuais)  
-[7. Gestão de Ambientes para Projetos com Diferentes Versões de Python](#7-gestao-de-ambientes-para-projetos-com-diferentes-versoes-de-python)  
-[8. Resolução de Problemas Comuns em Ambientes Virtuais](#8-resolucao-de-problemas-comuns-em-ambientes-virtuais)  
-[9. Considerações Finais e Melhores Práticas](#9-consideracoes-finais-e-melhores-praticas)  
+[1. Introdução](#1-introdução)  
+[2. Instalação de Múltiplas Versões do Python e Gestão de Ambientes Virtuais](#2-instalação-de-múltiplas-versões-do-python-e-gestão-de-ambientes-virtuais)  
+[3. Criação e Gestão de Ambientes Virtuais](#3-criação-e-gestão-de-ambientes-virtuais)  
+[4. Integração com Visual Studio Code](#4-integração-com-visual-studio-code)  
+[5. Gestão de Pacotes e Bibliotecas de Terceiros](#5-gestão-de-pacotes-e-bibliotecas-de-terceiros)  
+[6. Manutenção e Limpeza de Ambientes Virtuais](#6-manutenção-e-limpeza-de-ambientes-virtuais)  
+[7. Gestão de Ambientes para Projetos com Diferentes Versões de Python](#7-gestão-de-ambientes-para-projetos-com-diferentes-versões-de-python)  
+[8. Resolução de Problemas Comuns em Ambientes Virtuais](#8-resolução-de-problemas-comuns-em-ambientes-virtuais)  
+[9. Considerações Finais e Melhores Práticas](#9-considerações-finais-e-melhores-práticas)  
 
 
 # 1. Introdução
